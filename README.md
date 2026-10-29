@@ -1,16 +1,36 @@
-## Hi there 👋
+## # Olá! Eu sou a Camila Mello 👋
 
-<!--
-**KamzMello/kamzmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora em formação, apaixonada por tecnologia e aprendizado contínuo.
 
-Here are some ideas to get you started:
+🎓 Graduada em Ciência de Dados pela Universidade Cruzeiro do Sul.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Back-end com Java, estudando Python e Computação em Nuvem (Cloud Computing).
+
+### 🛠️ Tecnologias e ferramentas
+
+- **Linguagens:** Java e Python
+- **Back-end:** estudando Spring Boot
+- **Versionamento:** Git e GitHub
+- **Cloud Computing:** AWS
+- **Fundamentos:** lógica de programação, orientação a objetos (POO) e padrões de projeto
+
+### 📚 Atualmente aprendendo
+
+- Desenvolvimento Back-end com Java
+- Programação orientada a objetos (POO)
+- Padrões de projeto em Java
+- Desenvolvimento com Python
+- Computação em nuvem e serviços AWS
+
+### 📂 Projetos em destaque
+
+Confira meus repositórios para acompanhar meus estudos, exercícios práticos e projetos de desenvolvimento.
+
+### 📫 Vamos nos conectar?
+
+- 💼 **LinkedIn:** [Camila Mello](https://www.linkedin.com/in/camila-morenamello/)
+- 🐙 **GitHub:** [KamzMello](https://github.com/KamzMello)
+
+---
+
+⭐ Obrigada por visitar meu perfil!
